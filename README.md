@@ -1,12 +1,10 @@
 # ⚡ Daily Tech Insights
-
 Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
-
 <!-- START_QUOTE -->
-> "Marriage Is Like Putting Your Hand Into A Bag Of Snakes In The Hope Of Pulling Out An Eel."  
-> — **Leonardo Da Vinci**
+> "The only way to do great work is to love what you do."  
+> — **Steve Jobs**
 <!-- END_QUOTE -->
 
 ---
