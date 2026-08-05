@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Kindness Is The Language Which The Deaf Can Hear And The Blind Can See."  
-> — **Mark Twain**
+> "Wherever You Go, Go With All Your Heart."  
+> — **Confucius**
 <!-- END_QUOTE -->
 
 ---
