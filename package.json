@@ -5,5 +5,8 @@
   "main": "index.js",
   "scripts": {
     "update": "node scripts/update.js"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
