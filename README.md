@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "There is hope after despair and many suns after darkness."  
-> — **Rumi**
+> "Age is whatever you think it is. You are as old as you think you are."  
+> — **Muhammad Ali**
 <!-- END_QUOTE -->
 
 ---
