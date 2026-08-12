@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Every day, nay every moment, try to do some good deed."  
-> — **Abu Bakr (R.A)**
+> "I Don'T Know Who My Grandfather Was; I Am Much More Concerned To Know What His Grandson Will Be."  
+> — **Abraham Lincoln**
 <!-- END_QUOTE -->
 
 ---
