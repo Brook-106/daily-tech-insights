@@ -7,5 +7,10 @@ Automated repository tracking daily developer quotes and tech inspiration.
 > — **Abraham Lincoln**
 <!-- END_QUOTE -->
 
+## 🛠️ Tech Stack
+- Node.js — fetch & update logic
+- GitHub Actions — daily cron automation
+- JavaScript — quote formatting script
+
 ---
 *Updated daily via GitHub Actions.*
