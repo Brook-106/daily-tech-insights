@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "I Don'T Know Who My Grandfather Was; I Am Much More Concerned To Know What His Grandson Will Be."  
-> — **Abraham Lincoln**
+> "Patience is of two kinds: patience over what pains you, and patience against what you covet."  
+> — **Ali ibn Abi Talib (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
