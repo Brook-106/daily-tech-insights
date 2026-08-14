@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Patience is of two kinds: patience over what pains you, and patience against what you covet."  
-> — **Ali ibn Abi Talib (R.A)**
+> "Drink! For You Know Not Whence You Came Nor Why: Drink! For You Know Not Why You Go, Nor Where."  
+> — **Omar Khayyam**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
