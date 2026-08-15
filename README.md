@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Drink! For You Know Not Whence You Came Nor Why: Drink! For You Know Not Why You Go, Nor Where."  
-> — **Omar Khayyam**
+> "When you're right, nobody remembers. When you're wrong, nobody forgets."  
+> — **Muhammad Ali**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
