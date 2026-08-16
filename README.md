@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "When you're right, nobody remembers. When you're wrong, nobody forgets."  
-> — **Muhammad Ali**
+> "If you expect the blessings of God, be kind to His people."  
+> — **Abu Bakr (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
