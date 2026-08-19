@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Now you see me, now you don't. George thinks he will, but I know he won't!"  
-> — **Muhammad Ali**
+> "I Dream Of An Africa Which Is In Peace With Itself."  
+> — **Nelson Mandela**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
