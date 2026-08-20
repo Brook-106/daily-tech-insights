@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "I Dream Of An Africa Which Is In Peace With Itself."  
-> — **Nelson Mandela**
+> "Not the ones speaking the same language, but the ones sharing the same feeling understand each other."  
+> — **Rumi**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
