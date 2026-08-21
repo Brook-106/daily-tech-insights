@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Not the ones speaking the same language, but the ones sharing the same feeling understand each other."  
-> — **Rumi**
+> "When A Person Really Desires Something, All The Universe Conspires To Help That Person To Realize His Dream."  
+> — **Paulo Coelho**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
