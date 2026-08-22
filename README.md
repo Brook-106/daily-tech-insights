@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "When A Person Really Desires Something, All The Universe Conspires To Help That Person To Realize His Dream."  
-> — **Paulo Coelho**
+> "Israel, As The Jewish State, Must Disappear From The Map."  
+> — **Ahmed Yassin**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
