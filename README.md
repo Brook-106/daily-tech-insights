@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Israel, As The Jewish State, Must Disappear From The Map."  
-> — **Ahmed Yassin**
+> "Set your life on fire. Seek those who fan your flames."  
+> — **Rumi**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
