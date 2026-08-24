@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Set your life on fire. Seek those who fan your flames."  
-> — **Rumi**
+> "Nature Hath Framed Strange Fellows In Her Time."  
+> — **William Shakespeare**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
