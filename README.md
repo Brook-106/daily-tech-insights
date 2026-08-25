@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Nature Hath Framed Strange Fellows In Her Time."  
-> — **William Shakespeare**
+> "I know you're tired but come, this is the way."  
+> — **Rumi**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
