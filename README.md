@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "I know you're tired but come, this is the way."  
-> — **Rumi**
+> "Do not let your difficulties fill you with anxiety, after all it is only in the darkest nights that stars shine more brightly."  
+> — **Ali ibn Abi Talib (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
