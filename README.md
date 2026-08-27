@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Do not let your difficulties fill you with anxiety, after all it is only in the darkest nights that stars shine more brightly."  
-> — **Ali ibn Abi Talib (R.A)**
+> "This being human is a guest house. Every morning a new arrival. Welcome and entertain them all!"  
+> — **Rumi**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
