@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "This being human is a guest house. Every morning a new arrival. Welcome and entertain them all!"  
-> — **Rumi**
+> "Strong And Bitter Words Indicate A Weak Cause."  
+> — **Victor Hugo**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
