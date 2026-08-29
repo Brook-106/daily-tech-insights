@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Strong And Bitter Words Indicate A Weak Cause."  
-> — **Victor Hugo**
+> "Learning gives creativity. Creativity leads to thinking. Thinking provides knowledge. Knowledge makes you great."  
+> — **Abdul Kalam**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
