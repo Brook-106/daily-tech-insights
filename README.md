@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Learning gives creativity. Creativity leads to thinking. Thinking provides knowledge. Knowledge makes you great."  
-> — **Abdul Kalam**
+> "I Find Hope In The Darkest Of Days, And Focus In The Brightest. I Do Not Judge The Universe."  
+> — **Dalai Lama**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
