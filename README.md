@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "I Find Hope In The Darkest Of Days, And Focus In The Brightest. I Do Not Judge The Universe."  
-> — **Dalai Lama**
+> "Expect The Best. Prepare For The Worst. Capitalize On What Comes."  
+> — **Zig Ziglar**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
