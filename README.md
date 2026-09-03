@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "There is a field beyond all notions of right and wrong. Come, meet me there."  
-> — **Rumi**
+> "Do not deceive or be faithless even with your enemy."  
+> — **Abu Bakr (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
