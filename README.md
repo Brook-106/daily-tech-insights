@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Do not deceive or be faithless even with your enemy."  
-> — **Abu Bakr (R.A)**
+> "It Is From Books That Wise People Derive Consolation In The Troubles Of Life."  
+> — **Victor Hugo**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
