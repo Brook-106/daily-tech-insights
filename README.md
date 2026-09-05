@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "It Is From Books That Wise People Derive Consolation In The Troubles Of Life."  
-> — **Victor Hugo**
+> "Convergence of our views on global trade issues under the WTO and our common resolve to combat terrorism provide a valuable base for mutual understanding."  
+> — **Abdul Kalam**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
