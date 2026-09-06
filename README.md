@@ -3,7 +3,7 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Convergence of our views on global trade issues under the WTO and our common resolve to combat terrorism provide a valuable base for mutual understanding."  
+> "In a democracy, the well-being, individuality and happiness of every citizen is important for the overall prosperity, peace and happiness of the nation."  
 > — **Abdul Kalam**
 <!-- END_QUOTE -->
 
