@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "In a democracy, the well-being, individuality and happiness of every citizen is important for the overall prosperity, peace and happiness of the nation."  
-> — **Abdul Kalam**
+> "There is no nobility with bad manners."  
+> — **Ali ibn Abi Talib (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
