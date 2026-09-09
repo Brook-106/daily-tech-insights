@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "To whatever extent a person's knowledge increases, his attention will be turned more towards his soul."  
-> — **Ali ibn Abi Talib (R.A)**
+> "How could they say that my religion, Islam was a 'race hate' religion after all the plunder and enslavement and domination of my people by white Christians in the name of white supremacy?"  
+> — **Muhammad Ali**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
