@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "How could they say that my religion, Islam was a 'race hate' religion after all the plunder and enslavement and domination of my people by white Christians in the name of white supremacy?"  
-> — **Muhammad Ali**
+> "Who do you think's better looking people in the north or people in the south?"  
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
