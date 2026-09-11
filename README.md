@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Who do you think's better looking people in the north or people in the south?"  
-> — **Umar ibn Al-Khattāb (R.A)**
+> "It Is The Supreme Art Of The Teacher To Awaken Joy In Creative Expression And Knowledge."  
+> — **Albert Einstein**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
