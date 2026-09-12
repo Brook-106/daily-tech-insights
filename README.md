@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "It Is The Supreme Art Of The Teacher To Awaken Joy In Creative Expression And Knowledge."  
-> — **Albert Einstein**
+> "My place is placeless, a trace of the traceless."  
+> — **Rumi**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
