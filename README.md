@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "My place is placeless, a trace of the traceless."  
-> — **Rumi**
+> "To Be A Christian Means To Forgive The Inexcusable Because God Has Forgiven The Inexcusable In You."  
+> — **C. S. Lewis**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
