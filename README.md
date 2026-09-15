@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Your light is more magnificent than sunrise or sunset."  
-> — **Rumi**
+> "A Riot Is At Bottom The Language Of The Unheard."  
+> — **Martin Luther King, Jr.**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
