@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "A Riot Is At Bottom The Language Of The Unheard."  
-> — **Martin Luther King, Jr.**
+> "Being Ignorant Is Not So Much A Shame, As Being Unwilling To Learn."  
+> — **Benjamin Franklin**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
