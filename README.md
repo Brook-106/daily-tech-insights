@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Being Ignorant Is Not So Much A Shame, As Being Unwilling To Learn."  
-> — **Benjamin Franklin**
+> "Use the same measure for selling that you use for purchasing."  
+> — **Abu Bakr (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
