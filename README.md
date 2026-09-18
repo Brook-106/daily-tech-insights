@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Use the same measure for selling that you use for purchasing."  
-> — **Abu Bakr (R.A)**
+> "People Always Ask Me, 'Were You Funny As A Child?' Well, No, I Was An Accountant."  
+> — **Ellen DeGeneres**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
