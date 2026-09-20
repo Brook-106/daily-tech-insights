@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "When Obstacles Arise, You Change Your Direction To Reach Your Goal; You Do Not Change Your Decision To Get There."  
-> — **Zig Ziglar**
+> "The outcome of fear is disappointment and shyness is frustration."  
+> — **Ali ibn Abi Talib (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
