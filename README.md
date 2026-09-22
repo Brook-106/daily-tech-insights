@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Educationists should build the capacities of the spirit of inquiry, creativity, entrepreneurial and moral leadership among students and become their role model."  
-> — **Abdul Kalam**
+> "When you're right, nobody remembers. When you're wrong, nobody forgets."  
+> — **Muhammad Ali**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
