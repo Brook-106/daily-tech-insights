@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "When you're right, nobody remembers. When you're wrong, nobody forgets."  
-> — **Muhammad Ali**
+> "Intentions count in your actions."  
+> — **Abu Bakr (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
