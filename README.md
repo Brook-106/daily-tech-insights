@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Intentions count in your actions."  
-> — **Abu Bakr (R.A)**
+> "For 2,500 years, India has never invaded anybody."  
+> — **Abdul Kalam**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
