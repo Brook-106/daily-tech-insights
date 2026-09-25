@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "For 2,500 years, India has never invaded anybody."  
-> — **Abdul Kalam**
+> "Understanding the knowledge and wisdom of the Qur'an is by far, higher than memorizing."  
+> — **Ali ibn Abi Talib (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
