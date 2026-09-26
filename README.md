@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Understanding the knowledge and wisdom of the Qur'an is by far, higher than memorizing."  
-> — **Ali ibn Abi Talib (R.A)**
+> "Hope Is A Waking Dream."  
+> — **Aristotle**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
