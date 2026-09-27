@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Hope Is A Waking Dream."  
-> — **Aristotle**
+> "Fear Allah, for He alone lives; all other things are liable to perish."  
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
