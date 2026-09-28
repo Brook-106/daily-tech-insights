@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Fear Allah, for He alone lives; all other things are liable to perish."  
-> — **Umar ibn Al-Khattāb (R.A)**
+> "I'm the greatest, I'm a bad man, and I'm pretty!"  
+> — **Muhammad Ali**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
