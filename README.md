@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "I'm the greatest, I'm a bad man, and I'm pretty!"  
-> — **Muhammad Ali**
+> "Coming Together Is A Beginning; Keeping Together Is Progress; Working Together Is Success."  
+> — **Henry Ford**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
