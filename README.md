@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Coming Together Is A Beginning; Keeping Together Is Progress; Working Together Is Success."  
-> — **Henry Ford**
+> "Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work."  
+> — **Abdul Kalam**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
