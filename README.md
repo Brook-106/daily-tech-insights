@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work."  
-> — **Abdul Kalam**
+> "Keep silent, because the world of silence is a vast fullness."  
+> — **Rumi**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
