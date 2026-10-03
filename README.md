@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "I'm so fast that last night I turned off the light switch in my hotel room and was in bed before the room was dark."  
-> — **Muhammad Ali**
+> "We Can Complain Because Rose Bushes Have Thorns, Or Rejoice Because Thorn Bushes Have Roses."  
+> — **Abraham Lincoln**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
