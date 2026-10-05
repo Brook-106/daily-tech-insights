@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "The cure for pain is in the pain."  
-> — **Rumi**
+> "Let not your love become attachment, nor your hate become destruction."  
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
