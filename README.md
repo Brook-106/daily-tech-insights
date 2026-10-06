@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Let not your love become attachment, nor your hate become destruction."  
-> — **Umar ibn Al-Khattāb (R.A)**
+> "Let Us Not Be Too Particular; It Is Better To Have Old Secondhand Diamonds Than None At All."  
+> — **Mark Twain**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
