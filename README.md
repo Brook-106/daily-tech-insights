@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Beautiful people are not always good, but good people are always beautiful."  
-> — **Ali ibn Abi Talib (R.A)**
+> "India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system."  
+> — **Abdul Kalam**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
