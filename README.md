@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system."  
-> — **Abdul Kalam**
+> "The Hunger For Love Is Much More Difficult To Remove Than The Hunger For Bread."  
+> — **Mother Teresa**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
