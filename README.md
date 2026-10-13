@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "We must think and act like a nation of a billion people and not like that of a million people. Dream, dream, dream!"  
-> — **Abdul Kalam**
+> "Whenever you are alone, remind yourself that God has sent everyone else away so that there is only you and Him."  
+> — **Rumi**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
