@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Whenever you are alone, remind yourself that God has sent everyone else away so that there is only you and Him."  
-> — **Rumi**
+> "A Good Conscience Is A Continual Christmas."  
+> — **Benjamin Franklin**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
