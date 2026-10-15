@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "A Good Conscience Is A Continual Christmas."  
-> — **Benjamin Franklin**
+> "My health is in the hands of Allah, who has ways of testing us. Whatever happens, happens. I a'int the greatest - it's Allah. I gave myself a job. I work for God."  
+> — **Muhammad Ali**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
