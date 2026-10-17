@@ -3,7 +3,7 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "If Your Eyes Are Opened, You'll See The Things Worth Seeing."  
+> "Raise your words, not voice. It is rain that grows flowers, not thunder."  
 > — **Rumi**
 <!-- END_QUOTE -->
 
