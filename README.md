@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Raise your words, not voice. It is rain that grows flowers, not thunder."  
-> — **Rumi**
+> "Be good to others, that will protect you against evil."  
+> — **Abu Bakr (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
