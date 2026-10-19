@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Be good to others, that will protect you against evil."  
-> — **Abu Bakr (R.A)**
+> "Reality Is Merely An Illusion, Albeit A Very Persistent One."  
+> — **Albert Einstein**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
