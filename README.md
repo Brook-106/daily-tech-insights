@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Reality Is Merely An Illusion, Albeit A Very Persistent One."  
-> — **Albert Einstein**
+> "As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words."  
+> — **William Shakespeare**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
