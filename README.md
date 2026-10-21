@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words."  
-> — **William Shakespeare**
+> "Without Freedom, No Art; Art Lives Only On The Restraints It Imposes On Itself, And Dies Of All Others."  
+> — **Albert Camus**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
