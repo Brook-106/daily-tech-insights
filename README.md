@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "To Be A Christian Means To Forgive The Inexcusable Because God Has Forgiven The Inexcusable In You."  
-> — **C. S. Lewis**
+> "Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person."  
+> — **Abdul Kalam**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
