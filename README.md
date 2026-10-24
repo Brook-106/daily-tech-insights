@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person."  
-> — **Abdul Kalam**
+> "We Must Be Global Christians With A Global Vision Because Our God Is A Global God."  
+> — **John Stott**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
