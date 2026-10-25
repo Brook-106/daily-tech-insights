@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "We Must Be Global Christians With A Global Vision Because Our God Is A Global God."  
-> — **John Stott**
+> "Thunder Is Good, Thunder Is Impressive; But It Is Lightning That Does The Work."  
+> — **Mark Twain**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
