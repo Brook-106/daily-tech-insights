@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Thunder Is Good, Thunder Is Impressive; But It Is Lightning That Does The Work."  
-> — **Mark Twain**
+> "Believe You Can And You'Re Halfway There."  
+> — **Theodore Roosevelt**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
