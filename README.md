@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Sell your cleverness and buy bewilderment. Cleverness is mere opinion. Bewilderment brings intuitive knowledge."  
-> — **Rumi**
+> "Men And Women Belong To Different Species And Communications Between Them Is Still In Its Infancy."  
+> — **Bill Cosby**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
