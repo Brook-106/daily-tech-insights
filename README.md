@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Men And Women Belong To Different Species And Communications Between Them Is Still In Its Infancy."  
-> — **Bill Cosby**
+> "The vision of the eye is limited; the vision of the heart transcends all barriers of time and space."  
+> — **Ali ibn Abi Talib (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
