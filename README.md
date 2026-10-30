@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "The vision of the eye is limited; the vision of the heart transcends all barriers of time and space."  
-> — **Ali ibn Abi Talib (R.A)**
+> "I Don'T Know Who My Grandfather Was; I Am Much More Concerned To Know What His Grandson Will Be."  
+> — **Abraham Lincoln**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
