@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "With God In Charge, I Believe Everything Will Work Out For The Best In The End."  
-> — **Henry Ford**
+> "A man's behavior is the index of the man, and his discourse is the index of his understanding."  
+> — **Ali ibn Abi Talib (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
