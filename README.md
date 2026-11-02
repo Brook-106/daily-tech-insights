@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "A man's behavior is the index of the man, and his discourse is the index of his understanding."  
-> — **Ali ibn Abi Talib (R.A)**
+> "Human Beings Are The Only Creatures On Earth That Allow Their Children To Come Back Home."  
+> — **Bill Cosby**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
