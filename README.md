@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Others may know pleasure, but pleasure is not happiness. It has no more importance than a shadow following a man."  
-> — **Muhammad Ali**
+> "If You Have Good Thoughts They Will Shine Out Of Your Face Like Sunbeams And You Will Always Look Lovely."  
+> — **Roald Dahl**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
