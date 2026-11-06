@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "I Believe That Every Person Is Born With Talent."  
-> — **Maya Angelou**
+> "Faith Is Permitting Ourselves To Be Seized By The Things We Do Not See."  
+> — **Martin Luther**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
