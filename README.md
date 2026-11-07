@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Faith Is Permitting Ourselves To Be Seized By The Things We Do Not See."  
-> — **Martin Luther**
+> "To fight against one's desires is the greatest of all fights."  
+> — **Ali ibn Abi Talib (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
