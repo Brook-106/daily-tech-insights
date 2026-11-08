@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "To fight against one's desires is the greatest of all fights."  
-> — **Ali ibn Abi Talib (R.A)**
+> "Art Is The Proper Task Of Life."  
+> — **Friedrich Nietzsche**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
