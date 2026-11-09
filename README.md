@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Art Is The Proper Task Of Life."  
-> — **Friedrich Nietzsche**
+> "Where The Spirit Does Not Work With The Hand, There Is No Art."  
+> — **Leonardo Da Vinci**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
