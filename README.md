@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Where The Spirit Does Not Work With The Hand, There Is No Art."  
-> — **Leonardo Da Vinci**
+> "True success is reaching our potential without compromising our values."  
+> — **Muhammad Ali**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
