@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "True success is reaching our potential without compromising our values."  
-> — **Muhammad Ali**
+> "The Time Is Always Right To Do What Is Right."  
+> — **Martin Luther King  Jr.**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
