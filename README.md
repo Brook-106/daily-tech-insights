@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "The Time Is Always Right To Do What Is Right."  
-> — **Martin Luther King  Jr.**
+> "To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich."  
+> — **Muhammad Ali**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
