@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich."  
-> — **Muhammad Ali**
+> "Sir, My Concern Is Not Whether God Is On Our Side; My Greatest Concern Is To Be On God'S Side, For God Is Always Right."  
+> — **Abraham Lincoln**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
