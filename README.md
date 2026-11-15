@@ -3,7 +3,7 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "I'm so fast that last night I turned off the light switch in my hotel room and was in bed before the room was dark."  
+> "It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up."  
 > — **Muhammad Ali**
 <!-- END_QUOTE -->
 
