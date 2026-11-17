@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Acquire knowledge before you become leaders and pride prevents you from learning and you live in ignorance."  
-> — **Umar ibn Al-Khattāb (R.A)**
+> "Good Actions Are A Guard Against The Blows Of Adversity."  
+> — **Abu Bakr**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
