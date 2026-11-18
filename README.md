@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Good Actions Are A Guard Against The Blows Of Adversity."  
-> — **Abu Bakr**
+> "Risk Comes From Not Knowing What You'Re Doing."  
+> — **Warren Buffett**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
