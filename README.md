@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Risk Comes From Not Knowing What You'Re Doing."  
-> — **Warren Buffett**
+> "The Lord Prefers Common-Looking People. That Is Why He Makes So Many Of Them."  
+> — **Abraham Lincoln**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
