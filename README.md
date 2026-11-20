@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "The Lord Prefers Common-Looking People. That Is Why He Makes So Many Of Them."  
-> — **Abraham Lincoln**
+> "All loves are a bridge to Divine love. Yet, those who have not had a taste of it do not know!"  
+> — **Rumi**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
