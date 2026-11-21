@@ -3,7 +3,7 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "All loves are a bridge to Divine love. Yet, those who have not had a taste of it do not know!"  
+> "We are the mirror - As well as the face in it."  
 > — **Rumi**
 <!-- END_QUOTE -->
 
