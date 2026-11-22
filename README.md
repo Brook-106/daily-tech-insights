@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "We are the mirror - As well as the face in it."  
-> — **Rumi**
+> "Asceticism is not that you should not own anything, but that nothing should own you."  
+> — **Ali ibn Abi Talib (R.A)**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
