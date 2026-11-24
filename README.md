@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "When a nation is surrounded by weaponized nations, she has to equip herself."  
-> — **Abdul Kalam**
+> "Monsters Are Real, And Ghosts Are Real Too. They Live Inside Us, And Sometimes, They Win."  
+> — **Stephen King**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
