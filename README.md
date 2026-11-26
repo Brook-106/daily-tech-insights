@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "Open your arms if you want the Beloved's embrace."  
-> — **Rumi**
+> "When In Doubt, Go For The Dick Joke."  
+> — **Robin Williams**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
