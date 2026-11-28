@@ -3,8 +3,8 @@ Automated repository tracking daily developer quotes and tech inspiration.
 
 ## 💬 Today's Inspiration
 <!-- START_QUOTE -->
-> "A man's worth depends upon the nobility of his aspirations."  
-> — **Ali ibn Abi Talib (R.A)**
+> "Be like a tree and let the dead leaves drop."  
+> — **Rumi**
 <!-- END_QUOTE -->
 
 ## 🛠️ Tech Stack
